@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hi 
 this is the file created now
+=======
+This is devops class
+
+>>>>>>> test_branch
